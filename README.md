@@ -25,7 +25,7 @@
 <br />
 
 
-:zap: Recent GitHub Activity</summary>
+:zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#22](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/22) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
