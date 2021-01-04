@@ -28,10 +28,10 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
-2. 💪 Opened PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
-3. 🎉 Merged PR [#1](https://github.com/mhmulford0/url-shorten-client/pull/1) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
-4. 💪 Opened PR [#1](https://github.com/mhmulford0/url-shorten-client/pull/1) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
-5. 💪 Opened PR [#22](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/22) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+1. 💪 Opened PR [#23](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/23) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+2. 🎉 Merged PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
+3. 💪 Opened PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
+4. 🎉 Merged PR [#1](https://github.com/mhmulford0/url-shorten-client/pull/1) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
+5. 💪 Opened PR [#1](https://github.com/mhmulford0/url-shorten-client/pull/1) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
 <!--END_SECTION:activity-->
 
