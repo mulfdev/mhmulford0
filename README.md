@@ -28,10 +28,10 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/24) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-2. 💪 Opened PR [#24](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/24) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-3. 💪 Opened PR [#23](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/23) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-4. 🎉 Merged PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
-5. 💪 Opened PR [#1](https://github.com/mhmulford0/url-shorten-server/pull/1) in [mhmulford0/url-shorten-server](https://github.com/mhmulford0/url-shorten-server)
+1. 🎉 Merged PR [#26](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/26) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+2. 💪 Opened PR [#26](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/26) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+3. 🎉 Merged PR [#24](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/24) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+4. 💪 Opened PR [#24](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/24) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+5. 💪 Opened PR [#23](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/23) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
 <!--END_SECTION:activity-->
 
