@@ -3,7 +3,7 @@
 ## Hi there, I'm Matt👋
 
 - 📚 I just completed Lambda School
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning TypeScript
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to produce / engineer music
 
