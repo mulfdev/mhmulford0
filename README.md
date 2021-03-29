@@ -25,10 +25,10 @@
 :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mhmulford0/url-shorten-client/pull/2) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
-2. 💪 Opened PR [#2](https://github.com/mhmulford0/url-shorten-client/pull/2) in [mhmulford0/url-shorten-client](https://github.com/mhmulford0/url-shorten-client)
-3. 💪 Opened PR [#27](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/27) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-4. 🎉 Merged PR [#26](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/26) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-5. 💪 Opened PR [#26](https://github.com/Lambda-School-Labs/village-book-builders-fe-a/pull/26) in [Lambda-School-Labs/village-book-builders-fe-a](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
+1. 🎉 Merged PR [#9](https://github.com/mhmulford0/OCR/pull/9) in [mhmulford0/OCR](https://github.com/mhmulford0/OCR)
+2. 🎉 Merged PR [#6](https://github.com/mhmulford0/OCR/pull/6) in [mhmulford0/OCR](https://github.com/mhmulford0/OCR)
+3. 🎉 Merged PR [#5](https://github.com/mhmulford0/OCR/pull/5) in [mhmulford0/OCR](https://github.com/mhmulford0/OCR)
+4. 🎉 Merged PR [#4](https://github.com/mhmulford0/OCR/pull/4) in [mhmulford0/OCR](https://github.com/mhmulford0/OCR)
+5. 🎉 Merged PR [#8](https://github.com/mhmulford0/OCR/pull/8) in [mhmulford0/OCR](https://github.com/mhmulford0/OCR)
 <!--END_SECTION:activity-->
 
