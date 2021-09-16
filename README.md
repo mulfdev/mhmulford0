@@ -2,10 +2,9 @@
 
 ## Hi there, I'm Matt👋
 
-- 📚 I just completed Lambda School
-- 🌱 I’m currently learning TypeScript
+- 📚 I'm working as a Software Engineer at Seven Star, Inc
+- 🌱 I :sparkling_heart: TypeScript
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to produce / engineer music
 
 
 ### Languages and Tools:
