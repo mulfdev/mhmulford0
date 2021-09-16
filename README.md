@@ -3,7 +3,7 @@
 ## Hi there, I'm Matt👋
 
 - 📚 I'm working as a Software Engineer at Seven Star, Inc
-- 🌱 I :sparkling_heart: TypeScript
+- 🌱 I really enjoy TypeScript
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
